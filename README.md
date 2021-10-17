@@ -1,0 +1,2 @@
+# Searching_and_sorting_algorithms
+Software development has always been about getting more done in less time, and one of the headaches we have to work with all the time is optimising search and sort algorithms. This repository contains practical exercises about the main academic algorithms, it should be clarified that it does not reach parallelism, but many of them are still valid when it comes to performing searches. 
